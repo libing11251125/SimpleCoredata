@@ -1,0 +1,2 @@
+# SimpleCoredata
+关于coredata的简单使用，有助于初学者学习coredata的使用
